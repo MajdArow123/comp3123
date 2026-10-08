@@ -1,0 +1,16 @@
+{
+  "name": "101513153_comp3123-exec05",
+  "version": "1.0.0",
+  "description": "COMP3123 Lab Exercise 05 - Express.js routing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["express", "routing"],
+  "author": "Mjd Arow",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
